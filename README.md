@@ -83,3 +83,11 @@ ADD COLUMN ProductReviewsJSON JSON;
 UPDATE ecommerce_table
 SET ProductReviewsJSON = JSON(ProductReviews);
 ```
+### Key Changes:
+
+- **Duplicate Customer ID entries are removed.**
+- **Standardized Gender and Location columns.**
+- **Removed outliers in Age, Annual Income, and Time on Site.**
+- **Reformatted Purchase History, Browsing History, and Product Reviews into structured JSON format.**
+
+  This cleaned dataset is now ready for further analysis, such as SQL queries, visualization, or machine learning. 
