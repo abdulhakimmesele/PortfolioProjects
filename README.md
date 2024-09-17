@@ -1,4 +1,4 @@
-# PortfolioProjects
+# E-commerce Customer Behavior Dataset Cleaning in SQL
 projects uses for data analysis
 
 About the Data Set file:-
