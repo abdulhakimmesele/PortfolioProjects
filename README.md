@@ -1,6 +1,7 @@
 # E-commerce Customer Behavior Dataset Cleaning in SQL
 
-
+# Dataset Overview
+This dataset captures detailed information about customer behavior and purchasing patterns, primarily from an e-commerce or retail platform. It includes various features that help in analyzing how customers interact with the site, their purchasing habits, and some demographic details. 
 # About the Data Set file
 This dataset captures detailed information about customer behavior and purchasing patterns, primarily from an e-commerce or retail platform. It includes various features that help in analyzing how customers interact with the site, their purchasing habits, and some demographic details. 
 # Introduction
